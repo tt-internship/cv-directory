@@ -28,7 +28,7 @@ A list of poissible additional features could be.
 - Build a free on-line tool where all persons could maintain their personal CV and companies could then be allowd to search and utilize the data of their own employees or freelancers.
 
 ## Entities
-Consultant, CV, Bid manager, template, assignment, filter, version, search, match, snippets, content, lay-out, (file)format.
+Consultant, CV, bid-manager, template, assignment, filter, version, search, match, snippets, content, lay-out, (file)format.
 
 ## Technology
 Free of choice, but you will have to argue you choice.
