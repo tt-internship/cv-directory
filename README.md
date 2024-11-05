@@ -1,6 +1,7 @@
 # cv-directory
 **A CV directory, used for easy mix and match when playing CV bingo**
 
+(Join the ciscussions on this idea)[https://github.com/tt-internship/cv-directory/discussions]
 
 ## Problem
 The issue is that in consulting, regardless if that is in context of a bureau or if your are a freelancer, you often engage in assignments based on matching a consultant's CV up against a specific request from a client. This way of running a business obviously lead to a very specific requirement that each consultant's CV must be detailed and updated at all times. Something that is considered a tedious and borring task for most consultants. But the problem is deeper than that; when a consultant is preseted as a potential hire for a specific assignment, it's most likely that it's not the entire CV that can be presented. It must be carefully adapted to each single bid. Somthing that is also considered tedious and boring. And as if that wasn't enough; It's likely that the information needed is not yet in the consultnat's CV. So for this occasion the CV needs to be updated, now! Somthing that most consultants finds a disturbance since they are probably in the middle of something else. And to top it up, it's likekly that the format, the look'n'feel of this CV carefully compiled for the occassion needs has special requirements. The skin of a certain department, the file format sent to the client, the lay-out, short- or long version...
